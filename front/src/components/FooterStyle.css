@@ -1,0 +1,98 @@
+.footer {
+  padding: 4rem 6rem;
+  background-image: url(../assets/patins.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  color: white;
+}
+
+.topRow {
+  display: flex;
+  align-items: center;
+  text-align: start;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.topRow i {
+  color: white;
+  font-size: 3rem;
+  margin-left: 1rem;
+}
+
+.topRow i:hover {
+  color: palevioletred;
+}
+
+.bottomRow {
+  padding-top: 2rem;
+  text-align: start;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.bottomRow div {
+  display: flex;
+  flex-direction: column;
+}
+
+.bottomRow h4 {
+  font-size: 1.3rem;
+  padding: 1rem 0 0.8rem 0;
+}
+
+.bottomRow a {
+  text-decoration: none;
+  color: white;
+  padding-bottom: 0.4rem;
+  font-size: 1.1rem;
+}
+
+.bottomRow p {
+  color: white;
+  font-size: 1.1rem;
+  margin: 0;
+  padding-bottom: 0.4rem;
+}
+
+.bottomRow a:hover {
+  color: white;
+}
+
+.bottomRow a::after {
+  content: "";
+  height: 2px;
+  width: 0%;
+  background-color: white;
+  display: block;
+  transition: 0.5s ease-in-out;
+}
+
+.bottomRow a:hover::after {
+  color: white;
+  content: "";
+  height: 2px;
+  width: 100%;
+  background-color: palevioletred;
+  display: block;
+}
+
+@media screen and (max-width: 850px) {
+  .footer {
+    padding: 4rem 2rem;
+  }
+
+  .footer i {
+    margin: 1rem 1rem 0 0;
+  }
+
+  .bottomRow div {
+    width: 50%;
+  }
+
+  .bottomRow a:hover::after {
+    width: 65%;
+  }
+}
