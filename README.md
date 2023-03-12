@@ -6,6 +6,8 @@ This is a **group project** I, alongside three other student developers, **built
 
 This quiz application is designed to **help learn the rules of roller derby**, a fast-paced, highly strategical team sport I have been playing competitively for nearly ten years. It was **my idea to build this project**.
 
+Due to **technical difficulties** some team members encountered during our three day long hackathon, this project is **not as functional** as we would have hoped. I was initally tasked with the "Correction" page, which was dependent on a struggling team member's component to be fully functional. When it became apparent that that teammate wouldn't be able to finish up their work in time for the presentation, I **consulted with the team** and **made the decision to take on the homepage**. It ended up being the focus of our end-of-hackathon presentation, **gaining praise for our web design**. I'm glad that I could use my ability to **think quick on my feet** and be **proactive** to reevaluate my priorities and switch my focus to something that would be **valuable to the team**!
+
 ## Technologies
 
 - Django, Django REST Framework
@@ -35,3 +37,9 @@ This quiz application is designed to **help learn the rules of roller derby**, a
 - Create a **fully responsive**, **animation rich homepage** using vanilla CSS
 - Use **Bootstrap** on other pages
 - Add **icons from Font Awesome** and **Google Fonts**
+
+## Contributions to the team
+
+- **Django models** based on the project's **UML diagrams**
+- **"Correction" page** and its "Explications" component 
+- Fully responsive, animated, sleak **homepage**
