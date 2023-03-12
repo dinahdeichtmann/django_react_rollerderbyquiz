@@ -4,15 +4,16 @@
 
 This is a **group project** I, alongside three other student developers, **built from scratch** during my Continuing Education course at **Toulouse Institute of Technology**.
 
-This quiz application is designed to **help learn the rules of roller derby**, a fast-paced, highly strategical team sport I have been playing competitively for nearly ten years. **This project was my original idea.**
+This quiz application is designed to **help learn the rules of roller derby**, a fast-paced, highly strategical team sport I have been playing competitively for nearly ten years. It was **my idea to build this project**.
 
-## Technologies used
+## Technologies
 
 - Django, Django REST Framework
 - React.js
 - PostgreSQL
+- Bootstrap
 
-## Skills gained
+## Skills
 
 ### Project management
 
@@ -31,5 +32,6 @@ This quiz application is designed to **help learn the rules of roller derby**, a
 ### Front-end
 
 - Create **reusable React components**
-- Create a **fully responsive homepage**
-- Add **icons from Font Awesome**
+- Create a **fully responsive**, **animation rich homepage** using vanilla CSS
+- Use **Bootstrap** on other pages
+- Add **icons from Font Awesome** and **Google Fonts**
