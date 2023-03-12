@@ -41,5 +41,11 @@ Due to **technical difficulties** some team members encountered during our three
 ## My own contributions to the team
 
 - **Django models** based on the project's **UML diagrams**
-- **"Correction" page** and its "Explications" component 
+- **"Correction" page** and its "Explications" component
 - Fully responsive, animated, sleak **homepage**
+
+The homepage has its own repository [here](https://github.com/dinahdeichtmann/react_homepage).
+
+## Other vesion
+
+The same project was initially built using different technologies (Node.js + Vue.js). It is fully functional. Find it [here](https://github.com/dinahdeichtmann/node_vue_rollerderbyquiz).
