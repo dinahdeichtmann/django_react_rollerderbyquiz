@@ -38,7 +38,7 @@ Due to **technical difficulties** some team members encountered during our three
 - Use **Bootstrap** on other pages
 - Add **icons from Font Awesome** and **Google Fonts**
 
-## Contributions to the team
+## My own contributions to the team
 
 - **Django models** based on the project's **UML diagrams**
 - **"Correction" page** and its "Explications" component 
